@@ -23,7 +23,7 @@ suite
   .run({ async: true })
 
 /*
-includes x 945,964,093 ops/sec ±0.41% (97 runs sampled)
-for x 146,603,145 ops/sec ±0.42% (93 runs sampled)
-Fastest is includes
+filter x 60,926,246 ops/sec ±0.41% (94 runs sampled)
+for x 64,895,225 ops/sec ±0.65% (95 runs sampled)
+Fastest is for
  */
